@@ -1,3 +1,4 @@
+New York
 Santiago
 Concepcion
 Talcahuano
@@ -8,3 +9,7 @@ Paris
 Chicago
 London
 Tokio
+Lima
+Osaka
+Pucon
+Los Angeles
